@@ -1,8 +1,8 @@
 # <span style="color: #2563EB;">🔷 </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #2563EB;">| </span> <span style="color: #2563EB;">F</span><span style="color: #ffffff;">inal </span><span style="color: #2563EB;">F</span><span style="color: #ffffff;">antasy </span><span style="color: #2563EB;">R</span><span style="color: #ffffff;">ep </span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>
 
-![FFRU Logo](https://github.com/DonnieDice/FinalFantasyRepUp/blob/main/images/logo.png?raw=true)
+![FFRU Logo](images/logo.png)
 
-## ![](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
+## ![](images/kiwi.gif) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
 
 ***
 
@@ -10,7 +10,7 @@
 
 **<span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #fff;">| </span> <span style="color: #2563EB;">F</span><span style="color: #ffffff;">inal </span><span style="color: #2563EB;">F</span><span style="color: #ffffff;">antasy </span><span style="color: #2563EB;">R</span><span style="color: #ffffff;">ep </span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>** <span style="color: #e67e23;">brings the iconic Final Fantasy victory fanfare to</span> <span style="color: #06c;">World of Warcraft</span><span style="color: #e67e23;"> when you gain reputation, replacing the default sound across supported WoW versions.</span>
 
-![RealmGX Kiwi](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Victory! Bwwiiiee."</span>
+![RealmGX Kiwi](images/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Victory! Bwwiiiee."</span>
 
 ***
 
