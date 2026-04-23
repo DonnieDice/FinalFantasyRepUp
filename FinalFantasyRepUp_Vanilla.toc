@@ -1,5 +1,5 @@
 ## Interface: 11500
-## Version: 1.0.6
+## Version: 1.0.8
 ## Title:|cff3bbc00Final Fantasy Rep Up!|r
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
